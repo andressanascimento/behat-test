@@ -1,0 +1,6 @@
+/nbproject/private/
+/nbproject/
+*.phar
+*.lock
+bin
+vendor
